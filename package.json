@@ -1,6 +1,6 @@
 {
   "name": "easy-notices",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ClassFunc library easy notices",
   "author": "duongdam",
   "license": "MIT",
@@ -57,7 +57,7 @@
   },
   "keywords": [
     "antd",
-    "react item checked",
+    "react antd notice easy",
     "styled component",
     "classfunc library"
   ],
